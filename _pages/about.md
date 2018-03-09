@@ -35,9 +35,9 @@ Find her on <a href="http://twitter.com/skonkiel">Twitter, </a><a href="https:
 <strong>Erin McKiernan</strong>, Professor, Physics Department at the National Autonomous University of Mexico
 <strong>Iara Vidal,</strong> PhD student, Federal University of Rio de Janeiro</span>
 <h2><span style="font-family: Roboto;">Roadmap</span></h2>
-<span style="font-weight: 400;">The Metrics Toolkit is meant to be a resource that grows and evolves as the field of scientometrics uncovers new insights about research impact and diffusion. Here's a roadmap for our plans to enhance the Toolkit and its governance over time.</span>
+The Metrics Toolkit is meant to be a resource that grows and evolves as the field of scientometrics uncovers new insights about research impact and diffusion. Here's a roadmap for our plans to enhance the Toolkit and its governance over time.
 
-<span style="font-weight: 400;">To submit a new idea for improving the Toolkit, </span><a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit/issues"><span style="font-weight: 400;">submit a GitHub issue</span></a><span style="font-weight: 400;"> or email us at </span><a href="mailto:metricstoolkit@gmail.com"><span style="font-weight: 400;">metricstoolkit@gmail.com</span></a><span style="font-weight: 400;">--feedback is always welcomed!</span>
+To submit a new idea for improving the Toolkit, <a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit/issues">submit a GitHub issue</a> or email us at <a href="mailto:metricstoolkit@gmail.com">metricstoolkit@gmail.com</a>--feedback is always welcomed!
 <h3><span style="font-weight: 400;">Q2 2018</span></h3>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Add co-authorship metrics (</span><a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit/issues/10"><span style="font-weight: 400;">see related GitHub issue here</span></a><span style="font-weight: 400;">)</span></li>
