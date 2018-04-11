@@ -8,6 +8,5 @@
 | Inappropriate Use Cases | The AAS should not be used as a direct measure of research impact of any kind, or quality.
 | Available Metric Sources | The AAS can be found in all products offered by Altmetric, including the free researcher bookmarklet and on many journal publisher websites. The Dimensions database also includes the Altmetric Attention Score for the articles it indexes.
 | Transparency | To date, it is not possible to fully audit the AAS, as the weighting of the score depends upon non-public, company-assigned "tiers" for news sources, Twitter users, and some other sources that mention a research output.
-| Website | The donut and Altmetric Attention Score 
-How is the Altmetric Attention Score calculated |
+| Website | The donut and Altmetric Attention Score, How is the Altmetric Attention Score calculated |
 | Timeframe | Mostly post-2011. For more information on the coverage dates for sources contributing to the AAS, visit the Altmetric website.
