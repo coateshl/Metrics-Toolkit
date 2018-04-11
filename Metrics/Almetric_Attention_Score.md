@@ -1,5 +1,6 @@
 | Field | Field Value |
 |------------------------------|-------------------------------------------------|
+| Name | Altmetric Attention Score
 | Can Apply To | Journal articles, books, and any research output deposited to a repository that the company tracks (e.g. Figshare, Zenodo, or an institutional repository)|
 | Metric Definition | "The Altmetric Attention Score is an automatically calculated, weighted count of all of the attention a research output has received [online, in sources tracked by Altmetric]."|
 | Metric Calculation | The AAS takes into account the volume of attention received by a research output across a number of online attention sources (e.g. Twitter, Pubpeer, etc). Each source is weighted by the company. The AAS weighting also takes into account whether the author of a mention of a research output regularly posts about research.
