@@ -9,6 +9,6 @@
 | Limitations | Describes the limitations of the metric, as identified in the literature
 | Inappropriate Use Cases | Describes the attention/impact related questions the metric should not be used to address
 | Available Metric Sources | The individuals or organizations that maintain and publish the metric, with links to those sources.
-| Transparency | The ability to access and verify the source data and algorithms for deriving metrics
+| Transparency | The ability to verify source data, and the availability of documentation about how a metric is derived.
 | Website | Link to the metric’s official website, when appropriate
 | Timeframe | Time scope or coverage used in calculating the metric
