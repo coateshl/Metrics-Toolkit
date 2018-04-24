@@ -1,0 +1,14 @@
+| Field | Field Value |
+|------------------------------|-------------------------------------------------|
+| Name | Publons Score
+| Can Apply To | Peer reviewed papers and conference proceedings
+| Metric Definition | Publons is a service that allows researchers to track and gain recognition for their peer review and editorial contributions. The Publons Score is an article-level metric that displays the perceived quality and significance of a paper on a scale of 1 to 10, according to peer reviews submitted by registered Publons users. Quality is an indicator of the manuscript’s perceived methodology and rigor, while significance is a measure of its perceived novelty and relevance.
+| Metric Calculation | Peer reviewers assess two aspects of a manuscript on a scale of one to 10 (where one is the lowest score and 10 is the highest). The two aspects assessed are quality and significance, and researchers are asked to consider such questions as “Is the research well designed and executed?” (quality) and “Does the publication offer new insight into the field?” (significance). Publons then calculates an overall score for each aspect and for all participating reviewers using the vector length formula.
+| Data Sources | The ratings for significance and quality are scored by the community of reviewers, editors, and authors on Publons.
+| Appropriate Use Cases | The Publons Score can be used to provide preliminary insight into how a paper is being received and evaluated within a research community.
+| Limitations | Publons coverage is limited to and driven by the researchers who have joined the Publons community (for free).  Therefore, differences in quality or significance should not be inferred when comparing papers with and without a Publons Score.
+| Inappropriate Use Cases | The Publons Score is not always an appropriate substitute for the full peer review process, by which manuscripts are improved based upon reviewer commentary over time,  and should not be used in isolation as a measure of research impact.
+| Available Metric Sources | [Publons](http://publons.com/), [Altmetric](http://altmetric.com/)
+| Transparency | Publons only displays scores for articles that have been published, and once they appear they are situated next to the article’s Altmetric score and Web of Science citations in the Publons web interface. The number of review scores is provided in the “Metrics” panel of a manuscript’s listing on the network, but the privacy settings associated with any pre-publication review are also applied to the reviewer’s article score. For example, where a journal’s review policy restricts a reviewer from signing their name, then reviewer scores are also anonymous. Researchers who score published articles on Publons are given the option of signing their name to the score
+| Website | [Publons](https://publons.com/)
+| Timeframe | Papers published after 2012
