@@ -22,7 +22,7 @@ The following is a set of guidelines for contributing to Metrics Toolkit. These 
 
 #### :star: Issues
 
-Issues are a great way to for you to communicate your suggestions and see what we've already identied for discussion or enhancements. They’re kind of like email for Github.
+Issues are a great way to for you to communicate your suggestions and see what we've already identified for discussion or enhancements.
 
 * To view or create an issue, [click on the **Issues** tab](https://github.com/Metrics-Toolkit/Metrics-Toolkit/issues) at the top of the repository.  
   *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view its details and comment*
@@ -30,13 +30,13 @@ Issues are a great way to for you to communicate your suggestions and see what w
 
 #### :star: Pull Requests
 
-Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Metrics Toolkit are totally welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
+Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Metrics Toolkit are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
 
 * Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
 * Use a descriptive title.
 * Add some comments to contextualize your contribution.  
 
-New to working in Github?  No worries, **[this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution)** provides a nice overview of contributing to open projects on Github.  Also, **don't worry - you can't break anything**, so feel free to experiment! :sparkles:
+New to working in Github?  No worries, **[this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution)** provides a nice overview of contributing to open projects on Github.  
 
 ## Code of Conduct
 
