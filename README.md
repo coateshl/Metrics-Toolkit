@@ -22,7 +22,7 @@ The following is a set of guidelines for contributing to Metrics Toolkit. These 
 
 #### :star: Issues
 
-Issues are a great way to for you to communicate your suggestions and see what we've already identied for discussion or enhancements. They’re kind of like email for Github.:rainbow::envelope:
+Issues are a great way to for you to communicate your suggestions and see what we've already identied for discussion or enhancements. They’re kind of like email for Github.
 
 * To view or create an issue, [click on the **Issues** tab](https://github.com/Metrics-Toolkit/Metrics-Toolkit/issues) at the top of the repository.  
   *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view its details and comment*
