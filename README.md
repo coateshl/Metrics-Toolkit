@@ -11,8 +11,6 @@ The Metrics Toolkit was developed thanks to the 2016 Force11 PitchIt! Innovation
 
 You can find our websit here: http://www.metrics-toolkit.org/
 
-All of the website content is located in the [**docs**](https://github.com/sparcopen/Open-Action-Kit/tree/master/docs) folder in our repository's root directly.  
-
 **Documentation**
 
 We developed a [schema](http://www.metrics-toolkit.org/about/metric-description-schema/) to consistently describe all of the metrics documented in the Metrics Toolkit.  The schema and metrics files are stored in the [Metrics folder](https://github.com/Metrics-Toolkit/Metrics-Toolkit/tree/master/Metrics) of this repository.  
