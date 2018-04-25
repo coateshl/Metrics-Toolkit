@@ -40,7 +40,9 @@ New to working in Github?  No worries, **[this guide](https://opensource.guide/h
 
 ## Code of Conduct
 
-need to add.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.  
+
+Please familiarize yourself with our [Code of Conduct](https://github.com/Metrics-Toolkit/Metrics-Toolkit/blob/master/CODE_OF_CONDUCT.md) applies both within project spaces and in public spaces when an individual is representing the project or its community. 
 
 ### License: 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
