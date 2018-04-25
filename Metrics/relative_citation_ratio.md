@@ -1,0 +1,14 @@
+| Field | Field Value |
+|------------------------------|-------------------------------------------------|
+| Name | Relative Citation Ratio
+| Can Apply To | Journal articles
+| Metric Definition | A field-normalized indicator of influence, used by the NIH for evaluating the relative merits of biomedical research articles
+| Metric Calculation | According to [Bloudoff-Indelicato (2015)](http://doi.org/10.1038/nature.2015.18734), “The RCR is calculated by dividing the number of citations a paper received by the average number of citations an article usually receives in that field. That number is then benchmarked against the median RCR for all NIH-funded papers. This allows articles to be assessed on the basis of their relevance in their own field, and highly influential articles will be recognized even if they are published in an obscure journal.” The “the average number of citations an article usually receives in that field” is determined by finding the average number of citations for all other articles that are cited alongside the article for which the RCR is being calculated (“an article’s co-citation network”).
+| Data Sources | The NIH iCite database
+| Appropriate Use Cases | To understand the relative scholarly influence that a scientific article has had, as compared to other NIH-funded research. The NIH reportedly uses the RCR for strategic planning and the evaluation of funded research, as a supplement to expert judgement.
+| Limitations | This metric has so far only been applied only to the sciences, as it uses NIH-funded research as its basis of comparison. Further work is under way by researchers to identify its relevance to understanding the influence of arts, humanities, and social sciences research, and possibly that of the influence of science research beyond the biomedical sciences. The benchmarking stage of the RCR calculation provides a potential mechanism to enhance its utility in other areas of research. In common with other citation-based indicators, the RCR has been found to have only [low to medium correlation](https://arxiv.org/abs/1511.08088) with peer assessments published on F1000 Prime.
+| Inappropriate Use Cases | Like all other citation-based indicators, the RCR cannot measure the quality of research.
+| Available Metric Sources | [Dimensions](https://app.dimensions.ai/discover/publication), [The NIH’s iCite database](https://icite.od.nih.gov/)
+| Transparency | The metric’s creators describe its calculation in detail in [this PLOS Biology article](http://doi.org/10.1371/journal.pbio.1002541).
+| Website | [National Institute of Health: Office of Portfolio Analysis: iCite](https://icite.od.nih.gov/)
+| Timeframe | The RCR accounts for “time since publication” in how it benchmarks an article against other papers, but is not itself time-bound (i.e. calculated over a certain time period like the journal impact factor is).
