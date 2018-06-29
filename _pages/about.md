@@ -8,6 +8,8 @@ permalink: http://www.metrics-toolkit.org/about/
 published: true
 post_date: 2016-07-07 18:11:06
 ---
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text]
+
 <h2><span style="font-weight: 400;"We developed the Metrics Toolkit to help scholars and evaluators understand and use citations, web metrics, and altmetrics responsibly in the evaluation of research.</span></h2>
 <span style="font-weight: 400;">The Metrics Toolkit provides evidence-based information about research metrics across disciplines, including how each metric is calculated, where you can find it, and how each should (and should not) be applied.  You’ll also find  examples of how to use metrics in grant applications, CVs, and promotion dossiers.</span>
 
@@ -35,3 +37,5 @@ Find her on </span><a href="http://twitter.com/skonkiel"><span style="font-weig
 <span style="font-weight: 400;"><a href="mailto:metricstoolkit@gmail.com"><strong>Email</strong>
 </a></span><strong><a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit">Github</a></strong>
 <strong><a href="https://twitter.com/Metrics_Toolkit">Twitter</a></strong>
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
