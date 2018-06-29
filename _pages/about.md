@@ -8,13 +8,11 @@ permalink: http://www.metrics-toolkit.org/about/
 published: true
 post_date: 2016-07-07 18:11:06
 ---
-[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text]
-
-<strong>We developed the Metrics Toolkit to help scholars and evaluators understand and use citations, web metrics, and altmetrics responsibly in the evaluation of research. </strong>
-
+<h2>We developed the Metrics Toolkit to help scholars and evaluators understand and use citations, web metrics, and altmetrics responsibly in the evaluation of research.</h2>
 <span style="font-weight: 400;">The Metrics Toolkit provides evidence-based information about research metrics across disciplines, including how each metric is calculated, where you can find it, and how each should (and should not) be applied.  You’ll also find  examples of how to use metrics in grant applications, CVs, and promotion dossiers.</span>
 
 <span style="font-weight: 400;">There are two ways to use the Toolkit. <a href="http://metrics-toolkit.org/explore-metrics">Explore metrics</a> to quickly look up the metrics you want to learn more about, by name. Or you can <a href="http://metrics-toolkit.org/choose-metrics/">choose metrics</a> that are best for your unique use case by filtering based on the broad discipline, research output, and desired impact.</span>
+<h2></h2>
 <h2><span style="font-weight: 400;">Who are we?</span></h2>
 <span style="font-weight: 400;">We are a group of information professionals who are passionate about using the best possible evidence for research evaluation.</span>
 
@@ -26,6 +24,7 @@ Find her on <a href="https://twitter.com/iandpangurban">Twitter</a>, <a href="ht
 
 <span style="font-weight: 400;"><strong>Stacy Konkiel</strong>, Director of Research &amp; Education, Altmetric
 Find her on </span><a href="http://twitter.com/skonkiel"><span style="font-weight: 400;">Twitter, </span></a><a href="https://github.com/skonkiel/"><span style="font-weight: 400;">Github,</span></a> or <a href="http://stacykonkiel.org"><span style="font-weight: 400;">stacykonkiel.org</span></a>
+<h2></h2>
 <h2><span style="font-weight: 400;">Advisory Board</span></h2>
 <span style="font-weight: 400;">Thanks to our wonderful board members for providing us with crucial feedback as we developed this resource.</span>
 
@@ -34,9 +33,8 @@ Find her on </span><a href="http://twitter.com/skonkiel"><span style="font-weig
 </span><span style="font-weight: 400;"><strong>Stefanie Haustein</strong>, Assistant Professor, School of Information Studies, University of Ottawa
 </span><span style="font-weight: 400;"><strong>Erin McKiernan</strong>, Professor, Physics Department at the National Autonomous University of Mexico
 </span><span style="font-weight: 400;"><strong>Iara Vidal</strong>, PhD student, Federal University of Rio de Janeiro</span>
+<h2></h2>
 <h2>Connect</h2>
 <span style="font-weight: 400;"><a href="mailto:metricstoolkit@gmail.com"><strong>Email</strong>
 </a></span><strong><a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit">Github</a></strong>
 <strong><a href="https://twitter.com/Metrics_Toolkit">Twitter</a></strong>
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
