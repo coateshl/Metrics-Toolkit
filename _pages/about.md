@@ -8,6 +8,8 @@ permalink: http://www.metrics-toolkit.org/about/
 published: true
 post_date: 2016-07-07 18:11:06
 ---
+We developed the Metrics Toolkit to help scholars and evaluators understand and use citations, web metrics, and altmetrics responsibly in the evaluation of research.
+
 <span style="font-weight: 400;">The Metrics Toolkit provides evidence-based information about research metrics across disciplines, including how each metric is calculated, where you can find it, and how each should (and should not) be applied.  You’ll also find  examples of how to use metrics in grant applications, CVs, and promotion dossiers.</span>
 
 <span style="font-weight: 400;">There are two ways to use the Toolkit. <a href="http://metrics-toolkit.org/explore-metrics">Explore metrics</a> to quickly look up the metrics you want to learn more about, by name. Or you can <a href="http://metrics-toolkit.org/choose-metrics/">choose metrics</a> that are best for your unique use case by filtering based on the broad discipline, research output, and desired impact.</span>
