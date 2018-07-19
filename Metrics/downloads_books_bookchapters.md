@@ -11,6 +11,6 @@
 In order for web analytics tools to provide an accurate count, they need to be configured to monitor and count these events.  Standard analytics provided for commonly used platforms for professional portfolios (such as Wordpress.com) may not see downloads when people connect directly to the file through Google or Google Scholar. Platforms commonly used for institutional repositories can count these from the server side, or use plug-ins to provide an accurate count.
 | Inappropriate Use Cases | Book and book chapter downloads are not direct measures of usage, research quality, or impact.
 | Available Metric Sources | Varies by publisher and repository, if used
-| Transparency | Varies by source
+| Transparency | Common sources for this data do not typically make the events generating them available.
 | Website | n/a
 | Timeframe | Typically immediate, but there may be a reporting delay of a few hours up to a 30 days, depending on the source.
