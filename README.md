@@ -32,9 +32,9 @@ Issues are a great way to for you to communicate your suggestions and see what w
 
 Are you pretty confortable working in Github or want to learn?  That's awesome, direct contributions to the Metrics Toolkit are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
 
-* Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
-* Use a descriptive title.
-* Add some comments to contextualize your contribution.  
+* Make your changes compact, which will allow us to review and merge your contribuitons more quickly
+* Use a descriptive title
+* Add some comments to contextualize your contribution
 
 New to working in Github?  No worries, **[this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution)** provides a nice overview of contributing to open projects on Github.  
 
