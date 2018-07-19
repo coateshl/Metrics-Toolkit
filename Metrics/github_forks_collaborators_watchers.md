@@ -9,6 +9,6 @@
 | Limitations | Simple counts of forks, collaborators, and watchers do not provide much information about the use of the repository files. However, exploring the specific activities and individuals can provide contextual information about who is engaging with and reusing the content, as well as what kinds of activity. Not all Github users provide clear information about their role, affiliation, and identity.
 | Inappropriate Use Cases | Github metrics should not be used as a direct measure of quality or impact.
 | Available Metric Sources | [Github](http://github.com/), [PlumX](http://plumanalytics.com/)
-| Transparency | All user actions for public repositories are publicly visible.
+| Transparency | For public repositories, users can trace forks back to specific users generating the activity. For public repositories, users can view all collaborators and watchers.
 | Website | [Github.com](https://github.com/)
 | Timeframe | Real-time updates. The Github site was launched in April 2008.
