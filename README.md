@@ -30,7 +30,7 @@ Issues are a great way to for you to communicate your suggestions and see what w
 
 #### :star: Pull Requests
 
-Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Metrics Toolkit are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
+Are you pretty confortable working in Github or want to learn?  That's awesome, direct contributions to the Metrics Toolkit are welcome!  Here are a few tips for faciliating the Pull Request (PR) process:
 
 * Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
 * Use a descriptive title.
