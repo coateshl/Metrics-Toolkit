@@ -9,7 +9,7 @@ The Metrics Toolkit was developed thanks to the 2016 Force11 PitchIt! Innovation
 ### Project Documentation:
 **Website**
 
-You can find our website here: http://www.metrics-toolkit.org/
+You can find our website here: http://www.metrics-toolkit.org
 
 **Documentation**
 
