@@ -9,6 +9,6 @@
 | Limitations | The scope of F1000 is limited to a small fraction of the biology and medical literature. As of March, 2017, there were 100,000 articles in F1000, with approximately 1,500 added each month. Thus far, the [correlation between Faculty of 1000 recommendations and citations is clear but weak](http://onlinelibrary.wiley.com/doi/10.1002/asi.23040/full).
 | Inappropriate Use Cases | The FFa should not be used as a direct measure of research impact.
 | Available Metric Sources | [F1000Prime](https://f1000.com/prime), [Altmetric](http://altmetric.com/)
-| Transparency | F1000 Reviews are open access, though the Article Recommendation service of F1000Prime is a subscription product.
+| Transparency | The reviews and recommendations written by Faculty Members can be viewed by users.
 | Website | [What is F1000Prime?](https://f1000.com/prime/about/whatis)
 | Timeframe | Varies
