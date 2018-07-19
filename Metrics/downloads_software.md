@@ -9,6 +9,6 @@
 | Limitations | Software is rarely formally cited, though it is often mentioned in publications. One study has [found a weak, but statistically significant, correlation between Scopus citations and download counts for Google Code programs](http://www.informationr.net/ir/21-1/paper709.html). SourceForge.net does not report downloads as of March 2017.
 | Inappropriate Use Cases | Software downloads are not direct measures of usage, quality, or impact.
 | Available Metric Sources | [Google Code](https://code.google.com/) (defunct as of January 2016), [Codeplex](https://www.codeplex.com/), [Bitbucket](https://bitbucket.org/), [Launchpad](https://launchpad.net/), [GitHub](http://github.com/) (API), [Figshare](http://figshare.com/), [Zenodo](http://zenodo.org/)
-| Transparency | Varies by source
+| Transparency | Software hosting sites and repositories do not generally make the events generating those data available.
 | Website | n/a
 | Timeframe |  Typically immediate, but there may be a reporting delay of a few hours up to a 30 days, depending on the source.
