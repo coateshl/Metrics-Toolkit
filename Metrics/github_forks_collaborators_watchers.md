@@ -1,7 +1,7 @@
 | Field | Field Value |
 |------------------------------|-------------------------------------------------|
 | Name | Github:  Forks, Collaborators, Watchers
-| Can Apply To | Any project content stored on a Github instance, but primarily software and code
+| Can Apply To | Any project content stored on a Github repository, but primarily software and code
 | Metric Definition | Github [“Forks”](https://help.github.com/articles/github-glossary/) are created when a user makes a copy of a [repository](https://help.github.com/articles/github-glossary/) (i.e., a group of files). A [“collaborator”](https://help.github.com/articles/github-glossary/) is another Github user who is able to perform many actions on the files within the repository, including edits. [“Watchers”](https://help.github.com/articles/github-glossary/) are Github users who have asked to be notified of activity in a repository, but have not become collaborators. Watching a repository is similar to following an RSS feed to see changes.
 | Metric Calculation | Forks, pulls, and commits are counted by the Git software running on the Github servers.
 | Data Sources | Github.com
